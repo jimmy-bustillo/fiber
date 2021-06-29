@@ -43,6 +43,7 @@ html {
   font-weight: 900;
   font-size: 3rem;
   padding: 1.5rem 4rem 0rem 4rem;
+  margin-right: 9rem;
 }
 
 .small-text {
@@ -51,6 +52,9 @@ html {
   padding-left: 4rem;
   padding-top: 1rem;
   color: grey;
+  margin-right: 7rem;
+  line-height: 2.4rem;
+  letter-spacing: 1px;
 }
 
 .button-start {
@@ -66,4 +70,5 @@ html {
   color: white;
   text-decoration: none;
   font-size: 1.6rem;
+  font-weight: 900;
 }
