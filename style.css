@@ -94,3 +94,7 @@ html {
   letter-spacing: 1px;
   color: rgb(65, 65, 65);
 }
+
+.description-container {
+  margin-left: 4rem;
+}
